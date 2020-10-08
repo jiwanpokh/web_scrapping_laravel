@@ -2,6 +2,8 @@
 web scrapping for viprealstate
 
 Its a web scrapping project in laravel from goutte, static for specific URL
+
+
  Clone a project 
  INSTALL a composer on a same directory
  Go through the route "get_data"
